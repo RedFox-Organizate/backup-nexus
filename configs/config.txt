@@ -1,0 +1,2 @@
+/home/aydin/Belgeler/backup-test/
+interval=15
